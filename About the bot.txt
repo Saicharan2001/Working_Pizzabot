@@ -1,1 +1,16 @@
 
+The Pizza bot is created using the google cloud platform called Dialogflow which is a natural language understanding platform which enables us to design and integrate a conversational user interface which can be dedicated to any services , into our applications seamlessly
+
+Services offered by this bot :
+
+1. General conversation with the Customer
+
+2. Displays the menu card on your request and this contains the whole list of available pizzas
+
+3. Takes up your order
+
+4. Requests for any toppings needed
+
+5. After the order is successfully taken from the customer , then it takes up your contact details like phone number and address to deliver the pizza 
+
+6. Also considers any additional instructions ( e.g., speeding up the delivery process )
